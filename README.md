@@ -12,4 +12,4 @@ Three applied machine learning case studies completed as part of my **Finlatics 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## About
-Each folder contains the .ipynb file, dataset, and a project-specific README with methodology and key findings.
+Each folder contains the .ipynb file, dataset, and a project-specific README and .pdf file with methodology and key findings.
